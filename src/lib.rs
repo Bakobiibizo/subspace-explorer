@@ -5,6 +5,7 @@ pub mod client;
 pub mod error;
 pub mod event;
 pub mod ui;
+pub mod rpc_explorer;
 
 use std::sync::Arc;
 use anyhow::Context;
