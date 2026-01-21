@@ -34,7 +34,7 @@ pretty_env_logger = "0.5.0"
 chrono = { version = "0.4.35", features = ["serde", "clock"] }
 thiserror = "1.0.57"
 tracing = "0.1.40"
-tracing-subscriber = { version = "0.3.18", features = ["env-filter"] }
+tracing-subscriber = { version = "0.3.20", features = ["env-filter"] }
 rand = "0.8"
 hex = "0.4"
 
