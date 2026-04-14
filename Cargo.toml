@@ -35,7 +35,7 @@ chrono = { version = "0.4.35", features = ["serde", "clock"] }
 thiserror = "1.0.57"
 tracing = "0.1.40"
 tracing-subscriber = { version = "0.3.18", features = ["env-filter"] }
-rand = "0.8"
+rand = "0.9"
 hex = "0.4"
 
 [dev-dependencies]
